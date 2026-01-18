@@ -2,8 +2,10 @@ Marmeladdy - cross check data from excel, then interpret based on fuzzy if there
 
 How to:
 
-pip install -r requirments.txt\n
-python3 mockdata.py\n
-python3 main.py
+1. pip install -r requirments.txt
+
+2. python3 mockdata.py
+
+3. python3 main.py
 
 Should work.
