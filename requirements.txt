@@ -1,0 +1,9 @@
+pandas
+openpyxl
+langchain
+openai
+thefuzz
+xlsxwriter
+pydantic
+datetime
+fuzzywuzzy[speedup]
